@@ -72,6 +72,10 @@ target/
 # pyenv
 .python-version
 
+# django
+*.log
+local_settings.py
+
 # celery beat schedule file
 celerybeat-schedule
 
